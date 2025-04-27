@@ -1,4 +1,4 @@
-# PhonebookAppV2
+ # PhonebookAppV2
 
 **PhonebookAppV2** is an enhanced version of a simple phonebook application built with React. This application allows users to manage their contacts, add new entries, search for contacts, and edit or delete existing ones. It introduces additional features like local storage for data persistence, improved user interface, and enhanced search and filter capabilities.
 
